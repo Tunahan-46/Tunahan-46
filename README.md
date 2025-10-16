@@ -1,4 +1,3 @@
-[![MasterHead](https://webmasto.com/wp-content/uploads/2023/11/yapay-zeka-cizim-programlari.jpg)
 <h1 align="center">Hi 👋, I'm Tunahan Özdil</h1>
 <h3 align="center">An AI & NLP enthusiast from Türkiye</h3>
 
